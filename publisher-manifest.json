@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "42493bbe97ab0dc5384f42fb",
+  "owner": "dshyseegh",
+  "repo": "page-f720da43088995a96f72b4c7",
+  "title": "小鸡云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f720da43088995a96f72b4c7",
+      "a": "小鸡云",
+      "b": "",
+      "entity": "小鸡云",
+      "brand": "小鸡云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5b930b8d8df9afe773bf268a9e66284a69ab0cab77ad1bf48748d7331fb4c7d9",
+      "content": {
+        "keyword1": "小鸡云",
+        "keyword2": "",
+        "primary_entity": "小鸡云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小鸡云提供VPN梯子、网络加速器与机场订阅服务，含套餐对比、操作说明及多端客户端官方下载指引，助您稳定解锁流媒体并加速游戏与办公。",
+          "AI_DESCRIPTION": "小鸡云提供VPN梯子、网络加速器与机场订阅服务，含套餐对比、操作说明及多端客户端官方下载指引，助您稳定解锁流媒体并加速游戏与办公。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{-webkit-text-size-adjust:100%}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FDF8F4;color:#2C2926;font-size:16px;line-height:1.65;overflow-x:hidden}header,main,footer{width:100%;overflow-x:hidden}header{background:#fff;padding:14px 16px;border-bottom:4px solid #E85A4F}.brand{font-size:22px;font-weight:700;color:#E85A4F}nav{margin-top:10px;display:flex;flex-wrap:wrap;gap:8px 14px}nav a{color:#5C4A42;font-size:14px}a{color:#D4453A;text-decoration:none}main{padding:20px 16px 40px;max-width:720px;margin:0 auto}h1{font-size:26px;color:#2A2522;margin:0 0 12px;line-height:1.3}.lead{font-size:17px;margin-bottom:22px;color:#3D3834}h2{font-size:20px;color:#C44536;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #F0D9D0}h3{font-size:17px;margin:10px 0 6px;color:#3A3330}p,li{margin-bottom:8px}.scene{background:#fff;padding:14px;margin-bottom:10px;border-radius:6px;border:1px solid #F0E4DC}.steps .step{background:#fff;padding:14px 14px 14px 16px;margin-bottom:10px;border-left:5px solid #E85A4F;border-radius:0 6px 6px 0}.num{display:inline-block;background:#E85A4F;color:#fff;width:24px;height:24px;text-align:center;border-radius:50%;font-size:14px;line-height:24px;margin-right:8px;font-weight:700}.plans{display:flex;flex-direction:column;gap:16px;margin:16px 0}.plan{background:#fff;border:1px solid #EAD9CF;border-radius:8px;padding:18px}.plan.featured{border:2px solid #E85A4F;background:#FFF6F3}.badge{display:inline-block;background:#E85A4F;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:24px;font-weight:700;color:#D4453A;margin:8px 0}.annual{font-size:14px;color:#6B5E56}.plan ul{padding-left:18px;margin:10px 0 0}.plan li{margin-bottom:6px}.download-list{background:#fff;padding:16px;border-radius:6px;border:1px solid #F0E4DC}details{background:#fff;border:1px solid #EAD9CF;border-radius:6px;margin-bottom:8px;padding:4px 12px}summary{padding:10px 0;font-weight:600;color:#C44536}details p{padding-bottom:10px;color:#3D3834}.ad{background:#FFF0EB;border:1px dashed #E85A4F;padding:12px;margin:20px 0;text-align:center;color:#6B4A42;font-size:14px}footer{background:#3A3330;color:#F5EDE8;padding:24px 16px;font-size:14px}footer a{color:#FFB4A8}footer h3{color:#FFB4A8;font-size:15px;margin:12px 0 8px}.sitemap ul,.friends{list-style:none;display:flex;flex-wrap:wrap;gap:8px 16px}</style><header><div class=\"brand\">小鸡云</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐对比</a><a href=\"#nodes\">节点说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>小鸡云官方网站</h1><p class=\"lead\">小鸡云提供专业的 VPN 梯子、网络加速器与机场订阅服务。在此获取官方客户端下载指引、套餐对比以及从订阅导入到连接节点的完整操作说明，畅享稳定跨境网络体验。</p><section id=\"intro\"><h2>品牌简介</h2><p>小鸡云是面向个人与团队的网络加速品牌，以机场订阅为核心交付方式，配合多平台客户端，帮助用户突破网络限制、降低延迟并保护连接隐私。我们坚持在小鸡云官方网站发布说明与下载指引，避免非官方镜像带来的安全风险。</p><p>小鸡云 VPN 与小鸡云机场覆盖流媒体解锁、游戏加速、远程协作与日常跨境访问。节点采用优化线路，部分提供 IPLC 专线以改善国际链路质量。选择小鸡云，即选择清晰透明的套餐与可持续的加速体验。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scene\"><h3>海外流媒体与内容访问</h3><p>通过小鸡云机场节点观看国际影视、直播与音乐平台。旗舰版支持全节点原生解锁，减少地区限制带来的缓冲与无法播放问题。</p></div><div class=\"scene\"><h3>游戏加速与低延迟对战</h3><p>利用 IPLC 专线优化游戏走线，适合需要稳定延迟的对战与更新下载。旗舰版特别针对游戏场景做了线路筛选。</p></div><div class=\"scene\"><h3>远程办公、学术与跨境业务</h3><p>安全访问公司资源、学术数据库、云文档与海外服务。团队版支持更多设备与定制路由，方便小团队统一出口。</p></div><div class=\"scene\"><h3>出行与公共网络安全</h3><p>在酒店、机场或公共 Wi-Fi 下使用小鸡云 VPN 客户端加密流量，降低中间人风险，同时保持常用服务可用。</p></div></section><section id=\"guide\"><h2>操作说明</h2><p>按照以下纵向步骤即可完成从选购到上网加速的全过程，手机与电脑均可操作。</p><div class=\"steps\"><div class=\"step\"><span class=\"num\">1</span><strong>浏览并选择套餐</strong><p>进入套餐对比，确认流量、设备数与是否需要 IPLC 或优先支持，选择月付或更优惠的年付。</p></div><div class=\"step\"><span class=\"num\">2</span><strong>获取机场订阅</strong><p>在官方账户完成订购后，复制订阅链接。请妥善保存，不要将订阅泄露给他人。</p></div><div class=\"step\"><span class=\"num\">3</span><strong>下载对应客户端</strong><p>根据系统前往客户端下载说明，安装 Clash、Shadowrocket、v2rayN 等推荐软件。</p></div><div class=\"step\"><span class=\"num\">4</span><strong>导入订阅并更新节点</strong><p>在客户端粘贴订阅 URL，点击更新，即可看到小鸡云提供的节点列表。</p></div><div class=\"step\"><span class=\"num\">5</span><strong>选择节点并连接</strong><p>按延迟或用途选择节点并开启连接。可在系统代理或 Tun 模式下使用，浏览器与游戏即可走加速通道。</p></div></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为小鸡云当前公开套餐，便于按流量与设备规模选择。年付可节省约两个月费用。所有套餐均含基础加密传输与节点切换。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><div class=\"badge\">推荐 · 旗舰</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>订购后即可在面板查看剩余流量与到期时间。如需更高规格可咨询团队方案扩容。</p></section><section id=\"nodes\"><h2>节点与连接体验</h2><p>小鸡云节点分布在亚洲主要枢纽及欧美部分城市，日常以香港、日本、新加坡、美国线路为主，辅以台湾与欧洲节点用于内容与办公分流。普通线路适合浏览与轻量视频，IPLC 专线更适合游戏与实时通话。</p><p>我们持续维护线路质量，在晚高峰进行负载均衡。实际速度受本地宽带、运营商策略与目的网站影响，建议在客户端中测试延迟后选用。小鸡云不以夸大测速作宣传，而以稳定可用为先。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>小鸡云支持主流代理客户端。请仅从各软件可信来源安装，再导入本站机场订阅。以下为推荐组合，链接指向页面内说明，便于对照操作。</p><div class=\"download-list\"><p><strong>Windows：</strong>推荐 Clash Verge 或 v2rayN，导入订阅后开启系统代理。<a href=\"#guide\">查看导入步骤</a></p><p><strong>macOS：</strong>ClashX Meta 或 Surge，注意授予网络扩展权限。</p><p><strong>Android：</strong>Clash Meta for Android、v2rayNG，可开启 VPN 模式覆盖全局。</p><p><strong>iOS：</strong>Shadowrocket、Stash、Quantumult X（需在对应商店获取应用）。</p><p><strong>路由器 / OpenWrt：</strong>使用常见代理插件，适合全家设备共享小鸡云机场。</p></div><p>完成安装后回到操作说明第四步导入订阅。遇到证书或 TUN 问题，优先检查系统时间与权限。</p></section><div class=\"ad\">合作推广位：品牌与工具站点可申请友情展示，统一走官方渠道对接。</div><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>小鸡云是机场还是传统 VPN？有什么区别？</summary><p>小鸡云以机场订阅模式提供节点，用户在自选客户端中连接，灵活度高于单一 App 的传统 VPN。您可以按场景切换协议与分流规则，同时享受小鸡云整理的线路质量。</p></details><details><summary>如何在官网完成客户端下载后开始加速？</summary><p>下载并安装客户端只是第一步。必须将小鸡云提供的订阅链接导入软件并更新节点，然后选择一条可用节点开启连接。完整五步见上方操作说明。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度浏览与偶尔看视频选基础版；需要原生流媒体、游戏 IPLC 和优先支持选旗舰版；多人共用或公司出口选团队版。可先按月体验再改年付。</p></details><details><summary>订阅会过期吗？流量如何重置？</summary><p>套餐按自然月或购买周期计算。流量在周期内有效，到期或用尽后需续费或升级。年付用户同样按月重置流量额度，具体以用户中心显示为准。</p></details><details><summary>使用小鸡云 VPN 是否安全？会记录哪些信息？</summary><p>传输使用主流加密协议。我们仅保留必要的服务开通与故障排查信息。请勿用于违法用途，并保护好自己的订阅与账户密码，避免分享给不明来源。</p></details><details><summary>手机和电脑能共用一个小鸡云账号吗？</summary><p>可以。只要同时在线设备数不超过套餐上限即可。建议在各设备使用同一订阅，便于统一更新节点。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>小鸡云官方网站 · 网络加速器与机场订阅服务说明页</p><p>本页提供品牌介绍、套餐对比、操作步骤与客户端指引，便于用户在购买前充分了解。</p><div class=\"sitemap\"><h3>网站地图</h3><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#nodes\">节点说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div><div class=\"friends\"><h3>友情链接</h3><a href=\"#\">加速工具导航</a><a href=\"#\">客户端百科</a><a href=\"#\">网络隐私指南</a><a href=\"#\">跨境办公手册</a></div><p>© 小鸡云 · 仅展示官方公开信息 · 请通过正规渠道获取订阅</p></footer>",
+          "hash": "1b9a789e04dda31fc876456f4226eda047f5654be7b8daf23d895f7dd024dcb6",
+          "seo": {
+            "title": "小鸡云官方网站 - VPN梯子网络加速器客户端下载",
+            "keywords": "小鸡云,小鸡云官方网站,小鸡云VPN,小鸡云机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "小鸡云提供VPN梯子、网络加速器与机场订阅服务，含套餐对比、操作说明及多端客户端官方下载指引，助您稳定解锁流媒体并加速游戏与办公。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "iysqeg.cn",
+    "host": "p-c7443d8559.iysqeg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "iysqeg.cn",
+      "url": "https://iysqeg.cn/",
+      "label": "CheapV2",
+      "apex": "iysqeg.cn",
+      "kind": null,
+      "identity": "ctbqmqste/page-89c0a3a78f04e0b9b9cebf23"
+    },
+    {
+      "host": "mmllk.cn",
+      "url": "https://mmllk.cn/",
+      "label": "小鸡云",
+      "apex": "mmllk.cn",
+      "kind": null,
+      "identity": "jqjjrkyq/page-cceb0b7eb7d889525ad15494"
+    },
+    {
+      "host": "szwpq.cn",
+      "url": "https://szwpq.cn/",
+      "label": "小鸡云",
+      "apex": "szwpq.cn",
+      "kind": null,
+      "identity": "kutxvvg3w/page-fa1baa55b53f840ea97e6116"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "10b5111856c919a0c08a46ea8836f942b8d15f728d60c28791c15d171b9be0d6",
+    "sitemap.xml": "b86e4fdc42be0cfb56125101826b7e9650c715ae7a7962f495d6498deb25f4ed",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "56f39a4367dc1ad5edf03b0de19813184cb9f0635df821696e0efd60fb176a6e",
+    "robots.txt": "34de587c9a7e45f6e4c9ff6572498c70038efa2321425e55a10d300d1db7a3bf",
+    "d25efc09761bf08bb90771b2b3bade30.txt": "445f9cd3221cc3600ab9483831ba8df8ace32c03a87b2ca32196ca584651f432"
+  },
+  "revision": "5a88fcaca5522147074c8d8f6ac702dc7326427cbb74787a2e4cdd0a626bc840"
+}
